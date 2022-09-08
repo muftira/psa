@@ -1,0 +1,93 @@
+{
+    "navbar" :
+        {
+            
+                "id" : 1,
+                "logo" : "https://res.cloudinary.com/dblm329in/image/upload/v1662445804/PSA/Logo_PSA_fvtst1.png",
+                "hero" : "https://res.cloudinary.com/dblm329in/image/upload/v1662447455/PSA/Hero_gmkp5h.png"
+            
+        },
+        "sectionSatu" : {
+            "img" : "https://res.cloudinary.com/dblm329in/image/upload/v1662449540/PSA/AssetOrang_k8wmjg.png",
+            "logo" : [
+                {
+                    "id" : 1,
+                    "img" : "https://res.cloudinary.com/dblm329in/image/upload/v1662455519/PSA/bjb_uetceh.png"
+                },
+                {
+                    "id" : 2,
+                    "img" : "https://res.cloudinary.com/dblm329in/image/upload/v1662455519/PSA/grab_expkyo.png"
+                },
+                {
+                    "id" : 3,
+                    "img" : "https://res.cloudinary.com/dblm329in/image/upload/v1662455519/PSA/pertamina_hmull6.png"
+                },
+                {
+                    "id" : 4,
+                    "img" : "https://res.cloudinary.com/dblm329in/image/upload/v1662455519/PSA/huawei_kmk3ma.png"
+                },
+                {
+                    "id" : 5,
+                    "img" : "https://res.cloudinary.com/dblm329in/image/upload/v1662455519/PSA/danone_j6hvrk.png"
+                },
+                {
+                    "id" : 6,
+                    "img" : "https://res.cloudinary.com/dblm329in/image/upload/v1662455519/PSA/rodalink_il12ts.png"
+                }
+            ]
+        },
+        "sectionDua" : [
+            {
+                "id" : 1,
+                "img" : "",
+                "textSatu" : "",
+                "textDua" : "",
+                "textTiga" : "",
+                "textEmpat" : ""
+            },
+            {
+                "id" : 2,
+                "img" : "",
+                "textSatu" : "",
+                "textDua" : "",
+                "textTiga" : "",
+                "textEmpat" : ""
+            },
+            {
+                "id" : 3,
+                "img" : "",
+                "textSatu" : "",
+                "textDua" : "",
+                "textTiga" : "",
+                "textEmpat" : ""
+            },
+            {
+                "id" : 4,
+                "img" : "",
+                "textSatu" : "",
+                "textDua" : "",
+                "textTiga" : "",
+                "textEmpat" : ""
+            }
+        ],
+        "category" : [
+            {
+                "id" : 1,
+                "text" : "Content"
+            },
+            {
+                "id" : 2,
+                "text" : "Campaign"
+            },
+            {
+                "id" : 3,
+                "text" : "2D & 3D"
+            },
+            {
+                "id" : 4,
+                "text" : "Event"
+            }
+        ]
+        
+    
+}
