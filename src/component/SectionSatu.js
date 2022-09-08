@@ -10,10 +10,10 @@ function SectionSatu() {
           <img className="w-[800px] " src={Data.sectionSatu.img} alt="" />
         </div>
         <div className="flex flex-col justify-center items-start  xl:pt-[130px] lg:pt-[10px] lg:p-0 p-5">
-          <p className="text-button text-fontSatu font-bold text-left lg:text-[45px] text-2xl lg:w-[50vw]  mb-10 lg:leading-[55px] leading-[30px]">
+          <p className="text-button font-fontSatu font-bold text-left lg:text-[45px] text-2xl lg:w-[50vw]  mb-10 lg:leading-[55px] leading-[30px]">
             Transform abstract ideas into something solid and meaningful
           </p>
-          <p className="text-button text-fontDua text-left lg:text-base text-xs lg:w-[45vw]  mb-10">
+          <p className="text-button font-fontDua text-left lg:text-base text-xs lg:w-[45vw]  mb-10">
             Putra Sang Awan is a Creative Digital Agency in Bandung. We love
             everything we do at PSA, but our main expertise lies in Content
             Creation, Strategy and Management, 2D & 3D Graphics, Film & TVC and
