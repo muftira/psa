@@ -8,7 +8,7 @@ import Footer from "../component/Footer";
 function Home() {
 
   return (
-    <div className=" - w-full bg-bege overflow-hidden">
+    <div className="w-full bg-bege overflow-hidden">
       <Hero />
       <SectionSatu />
       <SectionDua />
