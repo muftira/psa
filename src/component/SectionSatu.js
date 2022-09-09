@@ -1,10 +1,19 @@
 import React from "react";
 import Data from "./data.json";
+import { AiOutlineRotateRight } from "react-icons/ai";
+
 
 function SectionSatu() {
   return (
     <div className="w-full flex flex-col lg:bg-bege sm:bg-white lg:justify-evenly items-center ">
-      <div className="bg-white w-full mt-20 font-fontSatu text-button text-xl lg:hidden sm:inline hidden">Not Displayed in Tablet Mode</div>
+      <div className="bg-white w-full mt-20 font-fontSatu text-button text-xl lg:hidden sm:flex sm:flex-col sm:justify-center sm:items-center space-y-6 hidden">
+        <p>Not Displayed in Tablet Mode</p>
+        <div className="text-[40px]">
+        <AiOutlineRotateRight/>
+        </div>
+        
+        <p>Please Rotate to Landscape</p>
+      </div>
       <div className="w-full lg:flex sm:hidden flex lg:justify-start lg:items-start justify-center items-center">
         <div className="w-[1/2] lg:flex hidden">
           <img className="w-[800px] " src={Data.sectionSatu.img} alt="" />

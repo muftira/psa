@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import Data from "../component/data.json";
 import { FaFilter } from "react-icons/fa";
+import { AiOutlineRotateRight } from "react-icons/ai";
 import RadioBox from "../component/RadioBox";
 
 function Work() {
@@ -9,8 +10,13 @@ function Work() {
 
   return (
     <div className="w-full h-screen lg:bg-bege sm:bg-white bg-bege overflow-hidden flex justify-center">
-      <div className="bg-white w-full mt-20 font-fontSatu text-button text-xl lg:hidden sm:inline hidden">
-        Not Displayed in Tablet Mode
+      <div className="bg-white w-full mt-20 font-fontSatu text-button text-xl lg:hidden sm:flex sm:flex-col sm:items-center space-y-6 hidden">
+      <p>Not Displayed in Tablet Mode</p>
+        <div className="text-[40px]">
+        <AiOutlineRotateRight/>
+        </div>
+        
+        <p>Please Rotate to Landscape</p>
       </div>
       <div className="lg:flex hidden space-x-10 mt-28">
         {Data.category.map((item) => (
