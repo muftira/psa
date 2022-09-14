@@ -12,7 +12,6 @@ function Home() {
       <Hero />
       <SectionSatu />
       <SectionDua />
-      <Footer />
     </div>
   );
 }

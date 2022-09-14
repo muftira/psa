@@ -39,35 +39,31 @@
         "sectionDua" : [
             {
                 "id" : 1,
-                "img" : "",
-                "textSatu" : "",
-                "textDua" : "",
-                "textTiga" : "",
-                "textEmpat" : ""
+                "img" : "https://res.cloudinary.com/dblm329in/image/upload/v1662984730/PSA/Sec2_JourneytoFindTammieps1_1_rtpbjd.png",
+                "textSatu" : "bank bjb",
+                "textDua" : "Journey to Find Tammi ep. 1",
+                "textTiga" : "Film & TVC"
             },
             {
                 "id" : 2,
-                "img" : "",
-                "textSatu" : "",
-                "textDua" : "",
-                "textTiga" : "",
-                "textEmpat" : ""
+                "img" : "https://res.cloudinary.com/dblm329in/image/upload/v1662984730/PSA/Sec2_Express_Yourself_1_eeyije.png",
+                "textSatu" : "bank bjb",
+                "textDua" : "Express Yourself",
+                "textTiga" : "Film & TVC"
             },
             {
                 "id" : 3,
-                "img" : "",
-                "textSatu" : "",
-                "textDua" : "",
-                "textTiga" : "",
-                "textEmpat" : ""
+                "img" : "https://res.cloudinary.com/dblm329in/image/upload/v1662984730/PSA/Sec2_Splash_Screen_1_lscjk0.png",
+                "textSatu" : "bank bjb",
+                "textDua" : "DIGI by bank bjb Splash Screen",
+                "textTiga" : "Film & TVC"
             },
             {
                 "id" : 4,
-                "img" : "",
-                "textSatu" : "",
-                "textDua" : "",
-                "textTiga" : "",
-                "textEmpat" : ""
+                "img" : "https://res.cloudinary.com/dblm329in/image/upload/v1662984730/PSA/Sec2_bjbAward_1_bqkvly.png",
+                "textSatu" : "bank bjb",
+                "textDua" : "Best Performance Award 2021",
+                "textTiga" : "Event Management"
             }
         ],
         "category" : [
